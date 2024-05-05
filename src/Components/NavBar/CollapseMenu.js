@@ -64,7 +64,7 @@ const CollapseMenu = (props) => {
           <li>
             <NavLink
               exact
-              to='/'
+              to='/portfolio'
               activeClassName='active'
               onClick={props.handleNavbar}
             >
